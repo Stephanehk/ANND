@@ -1,0 +1,51 @@
+
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+
+}
+
+p{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.bg {
+
+  background-image: url("https://images.unsplash.com/photo-1543227612-f30b954dec90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+</style>
+
+<header class="bg-image-half"style="background-image: url('https://images.unsplash.com/photo-1543227612-f30b954dec90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80')"><div class="container text-center"><h1>AND</h1><h2>Awesome Convolutional Neural Network Doodler</h2></div></header>
