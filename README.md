@@ -1,7 +1,7 @@
 # ANND
 The Artificial Neural Network Doodler takes an image of a handrawn doodle and corrects it to a better image. The google doodle dataset is used, along with a random forrest classifier.
 
-Awards: Best Design at Trinity Hacks
+Awards: Best Design - Trinity Hacks
 
 
 Input:
